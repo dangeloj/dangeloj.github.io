@@ -3,28 +3,47 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to [my personal blog](http://blog.thegeeko.com)! Thank you for checking it out.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### What to expect from this blog
 
-There are currently two themes built on Poole:
+This is a place for me to write out my thoughts and opinions on softare development,
+running and building a company, and being a human. I like learning new things, new
+programming languages, new ways of solving problems, about how people interact,
+and how to be a better person.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Programming
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I love programming. I love building. I love creating useable software. My current view
+on programming languages is that they are just tools. Of course, some tools are more
+enjoyable to use that others.
 
-## Setup
+I have spent a fair amount of time writing F#, C#, and living in the .NET ecosystem.
+Most of that time has been spent working on web applications, writing HTTP APIs,
+and handfuls of single-page applications (SPAs). I have also been spending a good
+chunk of time learning Rust for a change of pace. Overall, I enjoy functional programming
+styles and continue to learn concepts that are abstract from languages.
 
-Some fun facts about the setup of this project include:
+### Business
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+I am currently building [Funclobile](http://www.funclobile.com) (fun-clow-bull), a software consultancy.
+My goal here is to create a company that empowers people. I truly believe that businesses exist for
+humans and not the other way around. Using the power of business to enrich the lives of everybody
+who interacts with the company is what we're all about.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+If you'd like to join me, I'd love to chat! If you need help on a project, have an application you need written,
+or just need an outsider's point of view, [reach out](mailto:jim@funclobile.com) and let's see how we
+can work together.
 
-Thanks for reading!
+### Humanity
+
+Being a human is hard. I'm fortunate that I'm not hindered by my skin color, sexual orientation, or
+religious beliefs. I know that others around me are not so fortunate. I choose, therefore, to use
+this as a place to discuss how we can better ourselves, empower the disenfranchised, and gain a
+different perspective on life. I think listening is just as important and want to hear your story as
+well! Please share your thoughts, your ideas, your concerns with me.
+
+### Contact
+
+You can find me on [Twitter @jdangelo](https://twitter.com/jjvdangelo) or
+[send me an email at jim@funclobile.com](mailto:jim@funclobile.com). Please reach out! Let's chat.

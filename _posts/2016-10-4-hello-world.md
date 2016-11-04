@@ -26,7 +26,7 @@ styles and continue to learn concepts that are abstract from languages.
 
 ### Business
 
-I am currently building [Funclobile](http://www.funclobile.com) (fun-clow-bull), a software consultancy.
+I am currently building [Funclobile](http://www.funclobile.com) (fun-clo-bull), a software consultancy.
 My goal here is to create a company that empowers people. I truly believe that businesses exist for
 humans and not the other way around. Using the power of business to enrich the lives of everybody
 who interacts with the company is what we're all about.

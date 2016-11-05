@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+comments: true
 ---
 
 Welcome to [my personal blog](http://blog.thegeeko.com)! Thank you for checking it out.

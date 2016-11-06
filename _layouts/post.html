@@ -8,7 +8,7 @@ layout: default
   {{ content }}
 </div>
 
-{% if !pages.hide_ads %}
+{% if pages.hide_ads %}{% else %}
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- thegeekco_blog_banner -->
 <ins class="adsbygoogle"

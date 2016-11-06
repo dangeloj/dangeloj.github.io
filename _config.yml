@@ -10,6 +10,7 @@ tagline:          Software Engineer
 description:      Random thoughts about building software, running a company, and being a human.
 url:              http://dangeloj.github.io
 baseurl:          /
+hide_ads:         false
 
 author:
   name:           "Jim D'Angelo"
